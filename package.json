@@ -1,7 +1,11 @@
 {
-    "name": "Kingslayer",
-    "main": "index.html",
-    "window": {
-        "show": false
-    }
+  "name": "Kingslayer",
+  "main": "index.html",
+  "window": {
+    "show": true
+  },
+  "dependencies": {
+    "q": "^1.4.1",
+    "rimraf": "^2.4.3"
+  }
 }
