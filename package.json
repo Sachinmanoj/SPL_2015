@@ -6,6 +6,6 @@
   },
   "dependencies": {
     "q": "^1.4.1",
-    "rimraf": "^2.4.3" 
+    "rimraf": "^2.4.3"
   }
 }
